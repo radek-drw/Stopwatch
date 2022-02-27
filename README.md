@@ -1,3 +1,4 @@
 # Stopwatch
-Stopwatch with play/reset/stop buttons
-It is counting milisec, sec and minutes
+
+1. Stopwatch with play/reset/stop buttons
+2. It is counting milisec, sec and minutes
