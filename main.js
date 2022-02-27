@@ -1,7 +1,7 @@
-const playBtn = document.getElementById('playButton');
-const pauseBtn = document.getElementById('pauseButton');
-const resetBtn = document.getElementById('resetButton');
-const spanTime = document.querySelector('span.time');
+const playBtn = document.getElementById('buttons__play-img');
+const pauseBtn = document.getElementById('pause-button');
+const resetBtn = document.getElementById('buttons__reset-img');
+const spanTime = document.querySelector('.display__time');
 
 let cents = 0;
 let secs = 0;
