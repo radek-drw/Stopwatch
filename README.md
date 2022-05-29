@@ -8,4 +8,4 @@
 ### Plan for the development of the application:
 
 1. Add list with all times when PAUSE btn pressed
-2. Refactor CSS to SASS
+2. Refactor CSS to SASS/Scss
